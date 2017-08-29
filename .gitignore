@@ -1,0 +1,8 @@
+*.bib
+*.cls
+*.aux
+*.log
+*.out
+fonts/
+graphics/
+tufte_book/
